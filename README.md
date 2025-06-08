@@ -36,6 +36,9 @@ Feel free to customize and improve the face shape detection and suggestions!
 ---
 
 ## 💻 App Screenshot
-![Screenshot](images/face.png)
+
+
+![Screenshot](face2.png)
+
 
 
