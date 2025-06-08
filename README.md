@@ -35,5 +35,7 @@ Feel free to customize and improve the face shape detection and suggestions!
 
 ---
 
-## License
-This project is open-source and free to use.
+## 💻 App Screenshot
+
+![Home Page](images/face.png)
+
