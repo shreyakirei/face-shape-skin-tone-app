@@ -41,4 +41,5 @@ Feel free to customize and improve the face shape detection and suggestions!
 ![Screenshot](face2.png)
 
 
+![Screenshot](face.png)
 
