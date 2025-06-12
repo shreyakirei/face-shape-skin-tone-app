@@ -1,4 +1,4 @@
-# Face Shape & Skin Tone Suggestion App
+# Hairstyle and Makeup Suggestion App
 
 This is a Streamlit web application that detects your **face shape** and **skin tone** from a face image you upload, then provides personalized **makeup**, **hairstyle**, and **skincare** suggestions based on the detected features.
 
